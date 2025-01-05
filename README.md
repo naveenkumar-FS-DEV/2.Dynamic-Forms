@@ -1,8 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Form Validation with Context API and React Router
+This project demonstrates how to build a user login system with form validation using React. After a successful login, the username is displayed on the home page using the Context API, and routing between pages is managed with React Router DOM.
+usage:
+- download zip
+- npm install
+- npm run dev
